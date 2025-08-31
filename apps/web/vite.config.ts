@@ -9,7 +9,6 @@ export default defineConfig({
 		...(reactRouter() as any),
 		tsconfigPaths() as any,
 	],
-	// Use root path for user GitHub Pages (daliskafroyan.github.io)
-	// Change to '/portfolio-site/' if using project pages
-	base: '/',
+	// Base path for GitHub Pages project (portfolio-site repository)
+	base: '/portfolio-site/',
 });
