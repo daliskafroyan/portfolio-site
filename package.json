@@ -14,7 +14,14 @@
 		"dev:web": "bun run --filter web dev",
 		"dev:server": "bun run --filter server dev"
 	},
-	"dependencies": {},
+	"dependencies": {
+		"@radix-ui/react-collapsible": "^1.1.12",
+		"@radix-ui/react-hover-card": "^1.1.15",
+		"@radix-ui/react-separator": "^1.1.7",
+		"@tailwindcss/typography": "^0.5.16",
+		"motion": "^12.23.12",
+		"react-markdown": "^10.1.0"
+	},
 	"devDependencies": {
 		"@biomejs/biome": "^2.2.0"
 	},
