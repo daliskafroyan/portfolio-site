@@ -44,6 +44,8 @@ jobs:
       - name: Build with React Router
         run: nix develop -c bun run build
         working-directory: ./apps/web
+        env:
+          NODE_ENV: production
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
