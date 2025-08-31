@@ -78,7 +78,7 @@ export default function HomeComponent() {
               <div className="flex items-center gap-4">
                 <div className="border-r p-2">
                   <img
-                    src="/avatar.jpg"
+                    src="avatar.jpg"
                     alt="Avatar"
                     className="h-16 w-16 rounded-full object-cover"
                   />

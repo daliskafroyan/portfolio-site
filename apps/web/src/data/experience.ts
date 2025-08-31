@@ -4,7 +4,7 @@ export const WORK_EXPERIENCE: ExperienceItemType[] = [
     {
         id: "bki",
         companyName: "PT. Biro Klasifikasi Indonesia",
-        companyLogo: "/logo/bki-logo.svg",
+        companyLogo: "logo/bki-logo.svg",
         positions: [
             {
                 id: "bki-software-engineer",
@@ -21,7 +21,7 @@ export const WORK_EXPERIENCE: ExperienceItemType[] = [
     {
         id: "freight-hub",
         companyName: "Freight-hub (Meratus Group)",
-        companyLogo: "/logo/freighthub-logo.svg",
+        companyLogo: "logo/freighthub-logo.svg",
         positions: [
             {
                 id: "freight-hub-fullstack-engineer",
@@ -40,7 +40,7 @@ export const WORK_EXPERIENCE: ExperienceItemType[] = [
     {
         id: "pupr",
         companyName: "Ministry of Public Works and Housing of the Republic of Indonesia",
-        companyLogo: "/logo/pupr-logo.png",
+        companyLogo: "logo/pupr-logo.png",
         positions: [
             {
                 id: "pupr-software-engineer",
@@ -57,7 +57,7 @@ export const WORK_EXPERIENCE: ExperienceItemType[] = [
     {
         id: "mrt-jakarta",
         companyName: "PT. MRT Jakarta",
-        companyLogo: "/logo/mrt-jakarta-logo.svg",
+        companyLogo: "logo/mrt-jakarta-logo.svg",
         positions: [
             {
                 id: "mrtj-software-engineer",
@@ -74,7 +74,7 @@ export const WORK_EXPERIENCE: ExperienceItemType[] = [
     {
         id: "koinworks",
         companyName: "KoinWorks",
-        companyLogo: "/logo/koinworks-logo.png",
+        companyLogo: "logo/koinworks-logo.png",
         positions: [
             {
                 id: "koinworks-frontend-engineer",
@@ -94,7 +94,7 @@ export const WORK_EXPERIENCE: ExperienceItemType[] = [
     {
         id: "paper-id",
         companyName: "Paper.id",
-        companyLogo: "/logo/paperid-logo.png",
+        companyLogo: "logo/paperid-logo.png",
         positions: [
             {
                 id: "paper-id-fulltime",
