@@ -14,7 +14,7 @@ export const WORK_EXPERIENCE: ExperienceItemType[] = [
                 description: `- Architected and developed an offline-first desktop application, implementing robust data synchronization between a legacy Laravel/MySQL system and a modern React/TypeScript stack, resulting in seamless 100% offline operations and improved user productivity in low-connectivity environments.`,
                 icon: "code",
                 skills: ["Laravel", "React", "TypeScript", "Electron", "MySQL", "Offline-first", "Desktop Application"],
-                isExpanded: true
+                isExpanded: false
             }
         ]
     },
@@ -26,14 +26,14 @@ export const WORK_EXPERIENCE: ExperienceItemType[] = [
             {
                 id: "freight-hub-fullstack-engineer",
                 title: "Fullstack Engineer",
-                employmentPeriod: "Apr 2023 - Feb 2025",
+                employmentPeriod: "Apr 2023 - Present",
                 employmentType: "Full-time",
                 description:
                 `- Engineered a seamless integration of GPS functionality, optimizing location-based services and enhancing user experience through precise geolocation features.
 - Revamping mobile apps of React Native.`,
                 icon: "code",
                 skills: ["Vue", "React Native", "Sequelize", "PostgreSQL", "AWS Lambda"],
-                isExpanded: false
+                isExpanded: true
             },
         ]
     },
